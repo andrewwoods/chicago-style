@@ -1,0 +1,29 @@
+{
+    "name": "andrewwoods/chicago-style",
+    "description": "Library to help conform your content with Chicago Manual of Style",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AndrewWoods\\ChicagoStyle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrew Woods",
+            "email": "online@awoods.net"
+        }
+    ],
+    "require": {
+        "php": ">=8.2.0",
+        "monolog/monolog": "^3.7",
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-master",
+        "squizlabs/php_codesniffer": "^3.10",
+        "friendsofphp/php-cs-fixer": "^3.64",
+        "phpunit/phpunit": "^11.4",
+        "phpstan/phpstan": "^1.12"
+    }
+}
