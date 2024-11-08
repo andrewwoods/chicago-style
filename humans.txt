@@ -1,0 +1,8 @@
+
+/* TEAM */
+
+Project Creator: Andrew Woods
+Site: https://andrewwoods.net
+Mastodon: @awoodsnet@phpc.social
+Location: New York City, USA.
+
